@@ -6,6 +6,9 @@
 # 전자, electronic
 
 # 시간, time 
+- Entropy
+- 방향
+- 빅뱅 
 
 # F = m * a
 - F : 힘 
